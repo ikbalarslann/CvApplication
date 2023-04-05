@@ -192,7 +192,7 @@ class FPracticalExperience extends Component {
 
 
 
-export default {
+export  {
   FGeneralInformation,
   FEducationalExperience,
   FPracticalExperience,
